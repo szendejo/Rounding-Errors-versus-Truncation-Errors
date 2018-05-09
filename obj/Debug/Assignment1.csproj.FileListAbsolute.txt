@@ -1,0 +1,6 @@
+C:\Users\BMo\Documents\CSCI 3321 - Numerical Methods\Assignment1\Assignment1\bin\Debug\Assignment1.exe.config
+C:\Users\BMo\Documents\CSCI 3321 - Numerical Methods\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+C:\Users\BMo\Documents\CSCI 3321 - Numerical Methods\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+C:\Users\BMo\Documents\CSCI 3321 - Numerical Methods\Assignment1\Assignment1\obj\Debug\Assignment1.csprojResolveAssemblyReference.cache
+C:\Users\BMo\Documents\CSCI 3321 - Numerical Methods\Assignment1\Assignment1\obj\Debug\Assignment1.exe
+C:\Users\BMo\Documents\CSCI 3321 - Numerical Methods\Assignment1\Assignment1\obj\Debug\Assignment1.pdb
